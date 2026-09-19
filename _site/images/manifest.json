@@ -1,0 +1,19 @@
+{
+	"name": "Zhiyuan Zhang / Academic Homepage",
+	"short_name": "Zhiyuan Zhang",
+	"description": "Zhiyuan Zhang's academic homepage: medical image segmentation, computer vision, weakly/semi-supervised learning, and medical AI.",
+	"start_url": "/",
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
