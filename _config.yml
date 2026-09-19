@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"  # 头像图片文件名，放到网站根目录
   name             : "Zhiyuan Zhang (章志远)"
   pronouns         : 
-  bio              : "M.E. candidate at Hainan University. Research interests: medical image segmentation, computer vision, weakly/semi-supervised learning, and LLM/RAG-based medical AI."
+  bio              : "M.E. from Hainan University (2026); Group Management Trainee at Shanghai Huali Microelectronics. Research: medical image segmentation, weakly/semi-supervised learning, LLM/RAG-based medical AI."
   location         : "Shanghai, China"
-  employer         : "Hainan University" # 单位/学校
+  employer         : "Shanghai Huali Microelectronics Corp. (Hua Hong Group)" # 单位/学校
   uri              : # URL
   email            : "Zzy_1230@outlook.com"
   # Academic websites
