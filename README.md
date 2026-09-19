@@ -40,7 +40,16 @@ To test a model
 ```bash
 python ./test_Promise12.py  # for X testing
 ```
+## Citation
+If you find these projects useful, please consider citing:
 
+@ARTICLE{3732085,
+  author={Zhiyuan Zhang, Yu Zhang, Zihao Zhou, Jing Chen, Uzair Aslam Bhatti, Wenlong Feng, Mengxing Huang, Zhiming Bai},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Semi-supervised Prostate Multi-Regional Semantic Segmentation with Patch-Based Plug-and-Play Correction Guidance}, 
+  year={2026},
+  keywords={Semi-supervised Learning, Prostate Multi-Regional MRI Segmentation, Labeled patch, Correction Guidance},
+  doi={10.1109/JBHI.2026.3732085}}
 ## Acknowledgements
 Our code is largely based on [SSNet](https://github.com/ycwu1997/SS-Net), [DiffRect](https://github.com/CUHK-AIM-Group/DiffRect), [BCP](https://github.com/DeepMed-Lab-ECNU/BCP). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
 
